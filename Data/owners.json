@@ -1,0 +1,38 @@
+[
+    {
+        "email": "lucas@gmail.com",
+        "password": "123",
+        "id": 1,
+        "typeuser": {
+            "type": "Owner",
+            "id": 1,
+            "name": "Lucas",
+            "surname": "Chapa",
+            "dni": "12345678"
+        }
+    },
+    {
+        "email": "agustin@gmail.com",
+        "password": "456",
+        "id": 2,
+        "typeuser": {
+            "type": "Owner",
+            "id": 2,
+            "name": "Agust\u00edn",
+            "surname": "Chapa",
+            "dni": "12457896"
+        }
+    },
+    {
+        "email": "ezequiel@gmail.com",
+        "password": "789",
+        "id": 3,
+        "typeuser": {
+            "type": "Owner",
+            "id": 3,
+            "name": "Ezequiel",
+            "surname": "Chapa",
+            "dni": "78945612"
+        }
+    }
+]

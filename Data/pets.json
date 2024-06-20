@@ -1,0 +1,53 @@
+[
+    {
+        "photo": "pequines.jpg",
+        "name": "Pegui",
+        "vaccinationSchedule": "https:\/\/www.youtube.com\/watch?v=mCdA4bJAGGk&ab_channel=sweetblue.",
+        "race": "Pequines",
+        "sizePet": "big",
+        "video": "",
+        "id": 1,
+        "ownerID": 3,
+        "owner": {
+            "type": "Owner",
+            "id": 3,
+            "name": "Ezequiel",
+            "surName": "Chapa",
+            "dni": "78945612"
+        }
+    },
+    {
+        "photo": "chiguagua.jpg",
+        "name": "Pepe",
+        "vaccinationSchedule": "https:\/\/www.youtube.com\/watch?v=ZsV8aj0LKs4&ab_channel=syko",
+        "race": "chiguagua",
+        "video": "",
+        "sizePet": "medium",
+        "id": 2,
+        "ownerID": 2,
+        "owner": {
+            "type": "Owner",
+            "id": 2,
+            "name": "Agust\u00edn",
+            "surName": "Chapa",
+            "dni": "12457896"
+        }
+    },
+    {
+        "photo": "golden.jpg",
+        "name": "pampa",
+        "vaccinationSchedule": "https:\/\/www.youtube.com\/watch?v=ci36yIHetMs&ab_channel=KILLER",
+        "race": "Golden",
+        "video": "",
+        "sizePet":"small",
+        "id": 3,
+        "ownerID": 2,
+        "owner": {
+            "type": "Owner",
+            "id": 2,
+            "name": "Agust\u00edn",
+            "surName": "Chapa",
+            "dni": "12457896"
+        }
+    }
+]

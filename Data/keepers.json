@@ -1,0 +1,82 @@
+[
+    {
+        "email": "chapa@gmail.com",
+        "password": "123",
+        "id": 1,
+        "typeuser": {
+            "type": 1,
+            "id": 1,
+            "name": "Lucas",
+            "lastname": "Chapa",
+            "photo": "pequines.jpg",
+            "dni": "12345678",
+            "tuition": "112233",
+            "sizepet": null,
+            "price": null,
+            "sex": "Male",
+            "age": "25",
+            "dateStart": "2022-11-01",
+            "dateFinish": "2022-11-10"
+        }
+    },
+    {
+        "email": "123",
+        "password": "456",
+        "id": 2,
+        "typeuser": {
+            "type": 2,
+            "id": 2,
+            "name": "dsada",
+            "lastname": "123",
+            "photo": "chiguagua.jpg",
+            "dni": "44",
+            "tuition": "2323",
+            "sizepet": null,
+            "price": null,
+            "sex": "Female",
+            "age": "18",
+            "dateStart": "2022-11-01",
+            "dateFinish": "2022-11-11"
+        }
+    },
+    {
+        "email": "keeper5@gmail.com",
+        "password": "1234",
+        "id": 3,
+        "typeuser": {
+            "type": "Keeper",
+            "id": 3,
+            "name": "Keeper5",
+            "lastname": "Keeper5",
+            "photo": "chiguagua.jpg",
+            "dni": "45678914",
+            "tuition": "125478",
+            "sizepet": "big",
+            "price": "450",
+            "sex": "Female",
+            "age": "18",
+            "dateStart": null,
+            "dateFinish": null
+        }
+    },
+    {
+        "email": "keeper6@gmail.com",
+        "password": "4567",
+        "id": 4,
+        "typeuser": {
+            "type": "Keeper",
+            "id": 4,
+            "name": "keeper6",
+            "lastname": "keeper6",
+            "photo": "golden.jpg",
+            "dni": "45871236",
+            "tuition": "14587458",
+            "sizepet": "big",
+            "price": "450",
+            "sex": "Female",
+            "age": "18",
+            "dateStart": null,
+            "dateFinish": null
+        }
+    }
+]
